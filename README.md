@@ -25,9 +25,9 @@ Both implementations yield similar results in data projection.
   ![](Images/output3.png)
 
 - **Performance with Linear and Gaussian Kernels:**
+  ![](Images/output4.png)
   - Using a KPCA with a linear kernel is equivalent to performing a conventional PCA. As shown in the graph, the data are clearly not linearly separable, making a linear kernel unsuitable.
   - Therefore, we need to use a kernel that can transform the data to better separate the classes. As demonstrated in the previous figures, Kernel PCA with an RBF (Gaussian) kernel does a superior job of projecting the data, allowing the classes to be more easily separated.
-  ![](Images/output4.png)
 
 
 
