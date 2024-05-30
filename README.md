@@ -18,12 +18,12 @@ Both implementations yield similar results in data projection.
   ![](Images/output.png)
 
 - **Performance with Linear Kernel (equivalent to conventional PCA):**  
-  ![](GB_Comparison/output2.png)
+  ![](Images/output2.png)
 
 ## Linear vs. Gaussian Kernel Using the Self Implementation
 - **Data 2:**  
-  ![](GB_Comparison/output3.png)
+  ![](Images/output3.png)
 
 - **Performance with Linear and Gaussian Kernels:**  
-  ![](GB_Comparison/output4.png)
+  ![](Images/output4.png)
 
