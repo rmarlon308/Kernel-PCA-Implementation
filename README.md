@@ -2,7 +2,7 @@
 
 This project features an implementation of Kernel Principal Component Analysis (K-PCA). K-PCA is a non-linear dimensionality reduction and feature extraction technique that applies a kernel transformation (kernel trick), mapping the data into a higher-dimensional space where conventional Principal Component Analysis (PCA) is subsequently performed.
 
-## Key Concepts of the Kernel PCA Algorithm
+## Key Concepts
 1. **Kernel Trick**: Transforms the original data into a higher-dimensional space using a kernel function, allowing for the capture of non-linear relationships.
 2. **Dimensionality Reduction**: Reduces the number of dimensions in the data while preserving as much variance as possible.
 3. **Non-linear Mapping**: Uses non-linear kernels (e.g., Gaussian, polynomial) to reveal structures not apparent in the original feature space.
